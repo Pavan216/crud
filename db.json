@@ -1,0 +1,32 @@
+{
+  "clients": [
+    {
+      "name": "raju kumar",
+      "Mobilenumber": "98745612345",
+      "email": "raj@gmail.com",
+      "company": "land survey",
+      "id": 2
+    },
+    {
+      "name": "WIPRO",
+      "Mobilenumber": "9874561230",
+      "email": "Pavan@gmail.com",
+      "company": "land",
+      "id": 4
+    },
+    {
+      "name": "madhu",
+      "Mobilenumber": "9874561230",
+      "email": "Pavan@gmail.com",
+      "company": "dooooolllls",
+      "id": 6
+    },
+    {
+      "name": "pavan",
+      "Mobilenumber": "7207270258",
+      "email": "jangilipavankumar@perfextechnologies.com",
+      "company": "perfex",
+      "id": 7
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "clients": [
+    {
+      "name": "raju",
+      "Mobilenumber": "98745612345",
+      "email": "raj@gmail.com",
+      "company": "land survey",
+      "id": 2
+    },
+    {
+      "name": "madhu",
+      "Mobilenumber": "9874561230",
+      "email": "lakkarsunareshperfextechnologies@gmail.com",
+      "company": "land survey",
+      "id": 3
+    },
+    {
+      "name": "WIPRO",
+      "Mobilenumber": "9874561230",
+      "email": "Pavan@gmail.com",
+      "company": "land",
+      "id": 4
+    },
+    {
+      "name": "madhu",
+      "Mobilenumber": "9874561230",
+      "email": "Pavan@gmail.com",
+      "company": "dooooolllls",
+      "id": 6
+    }
+  ]
+}
